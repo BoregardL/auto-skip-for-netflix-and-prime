@@ -146,4 +146,10 @@ export const i18nMap = {
     skip_recap: "要約をスキップ",
     skip_ads: "広告をスキップ",
   },
+    cs_CZ: {
+    next_epi: "Další díl",
+    skip_intro: "Přeskočit úvod",
+    skip_recap: "Přeskočit rekapitulaci",
+    skip_ads: "Přeskočit",
+  },
 };
